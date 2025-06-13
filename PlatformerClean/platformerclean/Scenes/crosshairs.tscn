@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://by3lft64vbn0o"]
+
+[ext_resource type="Texture2D" uid="uid://ctcbdq41kn5xp" path="res://Assets/monochrome_tilemap_transparent.png" id="1_nftgq"]
+
+[node name="Crosshairs" type="Sprite2D"]
+texture = ExtResource("1_nftgq")
+region_enabled = true
+region_rect = Rect2(5, 22, 6, 6)

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dljm4m6maev1y"]
+
+[ext_resource type="Script" uid="uid://mhw04mnue13g" path="res://Scripts/rope.gd" id="1_cd77x"]
+
+[node name="Rope" type="Node2D"]
+script = ExtResource("1_cd77x")
